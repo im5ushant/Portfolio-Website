@@ -15,5 +15,6 @@ const DogContainer = forwardRef(({ children }, ref) => (
       {children}
     </Box>
   ))
+  DogContainer.displayName = "DogContainer";
 
 export default DogContainer;
