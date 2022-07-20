@@ -96,10 +96,10 @@ const Home = () => (
           Interned at Xandora (Freelancing Firm)
         </BioSection>
         <BioSection>
-          <BioYear>2022</BioYear>
+          <BioYear>2022 (Jan-May)</BioYear>
           SDE Intern at Thrillophilia
         </BioSection><BioSection>
-          <BioYear>2022</BioYear>
+          <BioYear>2022 (July-Present)</BioYear>
           Software Developer at Peak (peak.ai)
         </BioSection>
       </Section>
