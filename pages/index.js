@@ -36,7 +36,7 @@ const Home = () => (
           <Heading as="h2" variant="page-title">
             Sushant Dev Singh
           </Heading>
-          <p>MERN Stack Developer | Web3 Enthusiast</p>
+          <p>Full Stack Developer | Web3 Enthusiast</p>
         </Box>
         <Box
           flexShrink={0}
@@ -94,6 +94,13 @@ const Home = () => (
         <BioSection>
           <BioYear>2020</BioYear>
           Interned at Xandora (Freelancing Firm)
+        </BioSection>
+        <BioSection>
+          <BioYear>2022</BioYear>
+          SDE Intern at Thrillophilia
+        </BioSection><BioSection>
+          <BioYear>2022</BioYear>
+          Software Developer at Peak (peak.ai)
         </BioSection>
       </Section>
 
